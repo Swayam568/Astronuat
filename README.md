@@ -1,2 +1,2 @@
-# Astronuat
-This is the daily routine of someone in space. 
+# p5.play-boilerplate
+Boiler plate for p5.play
